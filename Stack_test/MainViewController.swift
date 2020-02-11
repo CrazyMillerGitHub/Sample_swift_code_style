@@ -40,6 +40,8 @@ class MainViewController: UIViewController {
     // loadView()
     override func loadView() {
         super.loadView()
+        //
+        view.backgroundColor = .systemBackground
         // create PanGesture
         let gesture = UIPanGestureRecognizer(target: self, action: #selector(slideDown(_:)))
         // disable gesture right now

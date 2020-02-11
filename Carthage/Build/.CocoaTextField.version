@@ -3,7 +3,7 @@
   "iOS" : [
     {
       "name" : "CocoaTextField",
-      "hash" : "82b4a87883401b0b052f03260f819a68f24da516f4d7bff4d2fb0e0d2508821d",
+      "hash" : "529060c6e37f2e13f9d4b5f345bb2a80166224914eed264b30f3183a33dc96b4",
       "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ]

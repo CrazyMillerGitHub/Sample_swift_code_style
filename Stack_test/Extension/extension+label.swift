@@ -51,6 +51,8 @@ extension UILabel {
         label.translatesAutoresizingMaskIntoConstraints = false
         // set text
         label.text = "Nice Day"
+        // text color
+        label.textColor = .black
         // set alignment to left
         label.textAlignment = .left
         // set font
@@ -64,6 +66,8 @@ extension UILabel {
         let label = UILabel()
         // disable auto-constraint
         label.translatesAutoresizingMaskIntoConstraints = false
+        // text color
+        label.textColor = .black
         // set text
         label.text = "Be better every day!"
         // set alignment to left
