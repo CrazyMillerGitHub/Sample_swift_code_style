@@ -1,0 +1,10 @@
+{
+  "commitish" : "1.0.0",
+  "iOS" : [
+    {
+      "name" : "CocoaTextField",
+      "hash" : "82b4a87883401b0b052f03260f819a68f24da516f4d7bff4d2fb0e0d2508821d",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}

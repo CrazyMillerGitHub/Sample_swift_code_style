@@ -1,0 +1,11 @@
+framework module AnimationFramework {
+  umbrella header "AnimationFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module AnimationFramework.Swift {
+    header "AnimationFramework-Swift.h"
+    requires objc
+}
